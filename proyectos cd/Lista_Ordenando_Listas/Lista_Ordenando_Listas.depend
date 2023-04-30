@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1616295737 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\xxtareasxx\lista_ordenando_listas\main.cpp
+	<limits>
+	<windows.h>
+	<iostream>
+	<iostream>
+	"ListaOrdenada.h"
+	"Vector.h"
+
+1616295685 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\xxtareasxx\lista_ordenando_listas\listaordenada.h
+	<iostream>
+	<stdexcept>
+	"ListaDobEnlazada.h"
+	"ListaOrdenada.tpp"
+
+1616295593 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\xxtareasxx\lista_ordenando_listas\listadobenlazada.h
+	<iostream>
+	<stdexcept>
+	"ListaDobEnlazada.tpp"
+
+1616295625 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\xxtareasxx\lista_ordenando_listas\listadobenlazada.tpp
+	"ListaDobEnlazada.h"
+
+1616295685 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\xxtareasxx\lista_ordenando_listas\listaordenada.tpp
+	"ListaOrdenada.h"
+
+1615679928 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\xxtareasxx\lista_ordenando_listas\vector.h
+	<stdexcept>
+	<iostream>
+	<cmath>
+
+1616296134 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\xxtareasxx\lista_ordenando_listas\vector.cpp
+	"Vector.h"
+

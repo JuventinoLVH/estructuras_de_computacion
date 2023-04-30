@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1620333075 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\elincreiblearbolb\main.cpp
+	<iostream>
+	"ArbolB.h"
+
+1620401844 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\elincreiblearbolb\arbolb.h
+	<iostream>
+	<stdexcept>
+	"ColaCircular.h"
+	"ArbolB.tpp"
+
+1620401851 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\elincreiblearbolb\arbolb.tpp
+	"ArbolB.h"
+
+1614703516 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\elincreiblearbolb\colacircular.h
+	<iostream>
+	<stdexcept>
+	"ColaCircular.tpp"
+
+1614703516 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\elincreiblearbolb\colacircular.tpp
+	"ColaCircular.h"
+

@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1616120172 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\ayudandoalrey\colamedieval.cpp
+	"ColaMedieval.h"
+
+1616121212 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\ayudandoalrey\colamedieval.h
+	<iostream>
+	"ColaCircular.h"
+	"PersonaMedieval.h"
+
+1616121212 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\ayudandoalrey\colacircular.h
+	<iostream>
+	<stdexcept>
+	"ColaCircular.tpp"
+
+1616121278 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\ayudandoalrey\colacircular.tpp
+	"ColaCircular.h"
+
+1616121212 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\ayudandoalrey\personamedieval.h
+	<iostream>
+	"Utileria.h"
+
+1616121212 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\ayudandoalrey\utileria.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<fstream>
+
+1616121825 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\ayudandoalrey\main.cpp
+	<iostream>
+	<ctime>
+	"ColaMedieval.h"
+
+1616120722 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\ayudandoalrey\personamedieval.cpp
+	"PersonaMedieval.h"
+
+1616121866 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\ayudandoalrey\utileria.cpp
+	"Utileria.h"
+

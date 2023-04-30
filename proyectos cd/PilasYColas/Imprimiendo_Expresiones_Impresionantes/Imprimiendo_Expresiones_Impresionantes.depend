@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1614556251 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\xxtareasxx\imprimiendo_expresiones_impresionantes\main.cpp
+	"Expresion.h"
+	<iostream>
+	<stdlib.h>
+
+1614554527 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\xxtareasxx\imprimiendo_expresiones_impresionantes\expresion.h
+	<cstdlib>
+	<iostream>
+	<stdexcept>
+	<math.h>
+	<string>
+	<limits>
+	<conio.h>
+	<stdio.h>
+	"Pila.h"
+
+1614554527 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\xxtareasxx\imprimiendo_expresiones_impresionantes\pila.h
+	<iostream>
+	<stdexcept>
+	"Pila.tpp"
+
+1614384479 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\xxtareasxx\imprimiendo_expresiones_impresionantes\pila.tpp
+
+1614555984 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\xxtareasxx\imprimiendo_expresiones_impresionantes\expresion.cpp
+	"Expresion.h"
+
+1614556251 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\pilasycolas\imprimiendo_expresiones_impresionantes\main.cpp
+	"Expresion.h"
+	<iostream>
+	<stdlib.h>
+
+1614554527 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\pilasycolas\imprimiendo_expresiones_impresionantes\expresion.h
+	<cstdlib>
+	<iostream>
+	<stdexcept>
+	<math.h>
+	<string>
+	<limits>
+	<conio.h>
+	<stdio.h>
+	"Pila.h"
+
+1614554527 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\pilasycolas\imprimiendo_expresiones_impresionantes\pila.h
+	<iostream>
+	<stdexcept>
+	"Pila.tpp"
+
+1614384479 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\pilasycolas\imprimiendo_expresiones_impresionantes\pila.tpp
+
+1618940977 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\pilasycolas\imprimiendo_expresiones_impresionantes\expresion.cpp
+	"Expresion.h"
+

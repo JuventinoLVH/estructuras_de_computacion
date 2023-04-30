@@ -1,0 +1,246 @@
+# depslib dependency file v1.0
+1621359438 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\proyectofinal\main.cpp
+	<fstream>
+	<limits>
+	<windows.h>
+	<iostream>
+	"Vector.h"
+	"ArbolBA.h"
+
+1616296964 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\proyectofinal\vector.h
+	<stdexcept>
+	<iostream>
+	<cmath>
+
+1621362742 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\proyectofinal\arbolba.h
+	<iostream>
+	<stdexcept>
+	"ColaCircular.h"
+	"ArbolBA.tpp"
+
+1614703516 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\proyectofinal\colacircular.h
+	<iostream>
+	<stdexcept>
+	"ColaCircular.tpp"
+
+1614703516 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\proyectofinal\colacircular.tpp
+	"ColaCircular.h"
+
+1621363316 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\proyectofinal\arbolba.tpp
+	"ArbolBA.h"
+
+1620529028 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\proyectofinal\vector.cpp
+	"Vector.h"
+
+1621393992 source:e:\abraham\documents\school\2021_1\estructuradatos\proyecto\v4\proyectofinal\main.cpp
+	<iostream>
+	<cstdlib>
+	"Vector.h"
+	"CapturaSegura.h"
+	"Cliente.h"
+
+1616296964 e:\abraham\documents\school\2021_1\estructuradatos\proyecto\v4\proyectofinal\vector.h
+	<stdexcept>
+	<iostream>
+	<cmath>
+
+1621393992 e:\abraham\documents\school\2021_1\estructuradatos\proyecto\v4\proyectofinal\arbolba.h
+	<iostream>
+	<stdexcept>
+	"ColaCircular.h"
+	"ArbolBA.tpp"
+
+1621393992 e:\abraham\documents\school\2021_1\estructuradatos\proyecto\v4\proyectofinal\colacircular.h
+	<iostream>
+	<stdexcept>
+	"ColaCircular.tpp"
+
+1614703518 e:\abraham\documents\school\2021_1\estructuradatos\proyecto\v4\proyectofinal\colacircular.tpp
+	"ColaCircular.h"
+
+1621394140 e:\abraham\documents\school\2021_1\estructuradatos\proyecto\v4\proyectofinal\arbolba.tpp
+	"ArbolBA.h"
+	<fstream>
+	<cstdlib>
+
+1620529030 source:e:\abraham\documents\school\2021_1\estructuradatos\proyecto\v4\proyectofinal\vector.cpp
+	"Vector.h"
+
+1621393992 e:\abraham\documents\school\2021_1\estructuradatos\proyecto\v4\proyectofinal\capturasegura.h
+	"CapturaSegura.tpp"
+
+1621393992 e:\abraham\documents\school\2021_1\estructuradatos\proyecto\v4\proyectofinal\capturasegura.tpp
+	<iostream>
+	<cstdlib>
+	<limits>
+	<stdexcept>
+
+1621393992 e:\abraham\documents\school\2021_1\estructuradatos\proyecto\v4\proyectofinal\cliente.h
+	"ArbolBA.h"
+	"Cliente.tpp"
+
+1621393992 e:\abraham\documents\school\2021_1\estructuradatos\proyecto\v4\proyectofinal\cliente.tpp
+	"Cliente.h"
+	"CapturaSegura.h"
+	<iostream>
+	<cstdlib>
+
+1621393992 source:c:\users\dell\documents\4to semestre\proyectofinal\main.cpp
+	<iostream>
+	<cstdlib>
+	"Vector.h"
+	"CapturaSegura.h"
+	"Cliente.h"
+
+1616296964 c:\users\dell\documents\4to semestre\proyectofinal\vector.h
+	<stdexcept>
+	<iostream>
+	<cmath>
+
+1621393992 c:\users\dell\documents\4to semestre\proyectofinal\capturasegura.h
+	"CapturaSegura.tpp"
+
+1621393992 c:\users\dell\documents\4to semestre\proyectofinal\capturasegura.tpp
+	<iostream>
+	<cstdlib>
+	<limits>
+	<stdexcept>
+
+1621393992 c:\users\dell\documents\4to semestre\proyectofinal\cliente.h
+	"ArbolBA.h"
+	"Cliente.tpp"
+
+1621398240 c:\users\dell\documents\4to semestre\proyectofinal\arbolba.h
+	<iostream>
+	<stdexcept>
+	"ColaCircular.h"
+	"ArbolBA.tpp"
+
+1621393992 c:\users\dell\documents\4to semestre\proyectofinal\colacircular.h
+	<iostream>
+	<stdexcept>
+	"ColaCircular.tpp"
+
+1614703518 c:\users\dell\documents\4to semestre\proyectofinal\colacircular.tpp
+	"ColaCircular.h"
+
+1621399969 c:\users\dell\documents\4to semestre\proyectofinal\arbolba.tpp
+	"ArbolBA.h"
+	<fstream>
+	<cstdlib>
+
+1621393992 c:\users\dell\documents\4to semestre\proyectofinal\cliente.tpp
+	"Cliente.h"
+	"CapturaSegura.h"
+	<iostream>
+	<cstdlib>
+
+1620529030 source:c:\users\dell\documents\4to semestre\proyectofinal\vector.cpp
+	"Vector.h"
+
+1621393994 source:e:\abraham\documents\school\2021_1\estructuradatos\proyecto\vfinalfinalfinal\proyectofinal\main.cpp
+	<iostream>
+	<cstdlib>
+	"Vector.h"
+	"CapturaSegura.h"
+	"Cliente.h"
+
+1616296964 e:\abraham\documents\school\2021_1\estructuradatos\proyecto\vfinalfinalfinal\proyectofinal\vector.h
+	<stdexcept>
+	<iostream>
+	<cmath>
+
+1621393994 e:\abraham\documents\school\2021_1\estructuradatos\proyecto\vfinalfinalfinal\proyectofinal\capturasegura.h
+	"CapturaSegura.tpp"
+
+1621393994 e:\abraham\documents\school\2021_1\estructuradatos\proyecto\vfinalfinalfinal\proyectofinal\capturasegura.tpp
+	<iostream>
+	<cstdlib>
+	<limits>
+	<stdexcept>
+
+1621400598 e:\abraham\documents\school\2021_1\estructuradatos\proyecto\vfinalfinalfinal\proyectofinal\cliente.h
+	"ArbolBA.h"
+	"Cliente.tpp"
+
+1621398242 e:\abraham\documents\school\2021_1\estructuradatos\proyecto\vfinalfinalfinal\proyectofinal\arbolba.h
+	<iostream>
+	<stdexcept>
+	"ColaCircular.h"
+	"ArbolBA.tpp"
+
+1621393994 e:\abraham\documents\school\2021_1\estructuradatos\proyecto\vfinalfinalfinal\proyectofinal\colacircular.h
+	<iostream>
+	<stdexcept>
+	"ColaCircular.tpp"
+
+1614703518 e:\abraham\documents\school\2021_1\estructuradatos\proyecto\vfinalfinalfinal\proyectofinal\colacircular.tpp
+	"ColaCircular.h"
+
+1621438464 e:\abraham\documents\school\2021_1\estructuradatos\proyecto\vfinalfinalfinal\proyectofinal\arbolba.tpp
+	"ArbolBA.h"
+	<fstream>
+	<cstdlib>
+
+1621400610 e:\abraham\documents\school\2021_1\estructuradatos\proyecto\vfinalfinalfinal\proyectofinal\cliente.tpp
+	"Cliente.h"
+	"CapturaSegura.h"
+	<iostream>
+	<cstdlib>
+
+1620529030 source:e:\abraham\documents\school\2021_1\estructuradatos\proyecto\vfinalfinalfinal\proyectofinal\vector.cpp
+	"Vector.h"
+
+1621440762 source:c:\users\dell\documents\4to semestre\estructuras\archivosdetexto\proyectofinal\main.cpp
+	<iostream>
+	<cstdlib>
+	"Vector.h"
+	"CapturaSegura.h"
+	"Cliente.h"
+
+1616296964 c:\users\dell\documents\4to semestre\estructuras\archivosdetexto\proyectofinal\vector.h
+	<stdexcept>
+	<iostream>
+	<cmath>
+
+1621393994 c:\users\dell\documents\4to semestre\estructuras\archivosdetexto\proyectofinal\capturasegura.h
+	"CapturaSegura.tpp"
+
+1621393994 c:\users\dell\documents\4to semestre\estructuras\archivosdetexto\proyectofinal\capturasegura.tpp
+	<iostream>
+	<cstdlib>
+	<limits>
+	<stdexcept>
+
+1621400598 c:\users\dell\documents\4to semestre\estructuras\archivosdetexto\proyectofinal\cliente.h
+	"ArbolBA.h"
+	"Cliente.tpp"
+
+1621440466 c:\users\dell\documents\4to semestre\estructuras\archivosdetexto\proyectofinal\arbolba.h
+	<iostream>
+	<stdexcept>
+	"ColaCircular.h"
+	"ArbolBA.tpp"
+
+1621393994 c:\users\dell\documents\4to semestre\estructuras\archivosdetexto\proyectofinal\colacircular.h
+	<iostream>
+	<stdexcept>
+	"ColaCircular.tpp"
+
+1614703518 c:\users\dell\documents\4to semestre\estructuras\archivosdetexto\proyectofinal\colacircular.tpp
+	"ColaCircular.h"
+
+1621453495 c:\users\dell\documents\4to semestre\estructuras\archivosdetexto\proyectofinal\arbolba.tpp
+	"ArbolBA.h"
+	<fstream>
+	<cstdlib>
+
+1621438604 c:\users\dell\documents\4to semestre\estructuras\archivosdetexto\proyectofinal\cliente.tpp
+	"Cliente.h"
+	"CapturaSegura.h"
+	<iostream>
+	<cstdlib>
+
+1620529030 source:c:\users\dell\documents\4to semestre\estructuras\archivosdetexto\proyectofinal\vector.cpp
+	"Vector.h"
+

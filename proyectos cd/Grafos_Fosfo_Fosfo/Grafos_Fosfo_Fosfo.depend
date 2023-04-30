@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1616296964 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\grafos_fosfo_fosfo\vector.cpp
+	"Vector.h"
+
+1616296964 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\grafos_fosfo_fosfo\vector.h
+	<stdexcept>
+	<iostream>
+	<cmath>
+
+1617662380 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\grafos_fosfo_fosfo\main.cpp
+	<limits>
+	<windows.h>
+	<iostream>
+	"Vector.h"
+	"Grafo.h"
+
+1617654129 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\grafos_fosfo_fosfo\grafo.h
+	<iostream>
+	<stdexcept>
+	"Grafo.tpp"
+
+1617655613 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\grafos_fosfo_fosfo\grafo.tpp
+	"Grafo.h"
+

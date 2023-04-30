@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1615242164 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\listas_no_tan_listas\main.cpp
+	<limits>
+	<windows.h>
+	<iostream>
+	<iostream>
+	"ListaSimple.h"
+	"Matriz.h"
+
+1615242514 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\listas_no_tan_listas\listasimple.h
+	<iostream>
+	<stdexcept>
+	"ListaSimple.tpp"
+
+1615242552 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\listas_no_tan_listas\listasimple.tpp
+	"ListaSimple.h"
+
+1615174171 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\listas_no_tan_listas\matriz.h
+	<iostream>
+	<stdexcept>
+
+1615175168 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\listas_no_tan_listas\matriz.cpp
+	"Matriz.h"
+

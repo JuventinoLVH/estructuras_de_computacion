@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1614198998 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\c o l a s\main.cpp
+	<iostream>
+	"Cola.h"
+
+1614370903 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\c o l a s\cola.h
+	<iostream>
+	<stdexcept>
+

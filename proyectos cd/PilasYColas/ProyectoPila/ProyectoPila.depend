@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1612996006 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\proyectopila\main.cpp
+	<iostream>
+	<cstdlib>
+	"Pila.h"
+
+1612995626 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\proyectopila\pila.h
+	<iostream>
+	<exception>
+	"Pila.tpp"
+
+1612816884 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\proyectopila\pila.cpp
+	"Pila.h"
+
+1612995612 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\proyectopila\pila.tpp
+

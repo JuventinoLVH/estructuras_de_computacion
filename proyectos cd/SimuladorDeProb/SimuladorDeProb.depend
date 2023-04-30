@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614982615 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\simuladordeprob\main.cpp
+	<bits/stdc++.h>
+	<ctime>
+

@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1618426228 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\gerarquiasfamiliares\main.cpp
+	<limits>
+	<windows.h>
+	<iostream>
+	"Vector.h"
+	"ArbolDeBB.h"
+
+1618426228 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\gerarquiasfamiliares\arboldebb.h
+	<iostream>
+	<stdexcept>
+	"ColaCircular.h"
+	"ArbolDeBB.tpp"
+
+1618426262 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\gerarquiasfamiliares\arboldebb.tpp
+	"ArbolDeBB.h"
+
+1614703516 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\gerarquiasfamiliares\colacircular.h
+	<iostream>
+	<stdexcept>
+	"ColaCircular.tpp"
+
+1614703516 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\gerarquiasfamiliares\colacircular.tpp
+	"ColaCircular.h"
+
+1616296964 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\gerarquiasfamiliares\vector.cpp
+	"Vector.h"
+
+1616296964 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\gerarquiasfamiliares\vector.h
+	<stdexcept>
+	<iostream>
+	<cmath>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1612585706 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\tarea_matrices\main.cpp
+	"Matriz.h"
+	<iostream>
+
+1612582338 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\tarea_matrices\matriz.h
+	<iostream>
+	<stdexcept>
+
+1612584821 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\tarea_matrices\matriz.cpp
+	"Matriz.h"
+
+1612721427 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\xxtareasxx\tarea_matrices\main.cpp
+	"Matriz.h"
+	<iostream>
+
+1612721434 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\xxtareasxx\tarea_matrices\matriz.h
+	<iostream>
+	<stdexcept>
+
+1612584821 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\xxtareasxx\tarea_matrices\matriz.cpp
+	"Matriz.h"
+

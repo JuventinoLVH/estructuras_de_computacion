@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1610591138 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\vectores\main.cpp
+	<iostream>
+
+1611250931 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\vectores\vector.cpp
+	"Vector.h"
+	<cmath>
+
+1611250954 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\vectores\vector.h
+	<stdexcept>
+	<iostream>
+
+1610591138 source:c:\users\dell\documents\unison__pandemico\4to semestre\estructuras\proyectos cd\vectores\main.cpp
+	<iostream>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1614044717 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\caminoevaluadaor\main.cpp
+	<iostream>
+	"Pila.h"
+
+1613957894 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\caminoevaluadaor\pila.h
+	<iostream>
+	<stdexcept>
+	"Pila.tpp"
+
+1613963340 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\caminoevaluadaor\pila.tpp
+

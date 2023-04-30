@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1619381661 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\monticulo\vector.cpp
+	"Vector.h"
+
+1616296964 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\monticulo\vector.h
+	<stdexcept>
+	<iostream>
+	<cmath>
+
+1619387396 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\monticulo\main.cpp
+	<limits>
+	<windows.h>
+	<iostream>
+	"Vector.h"
+	"Heap.h"
+
+1619387172 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\monticulo\heap.h
+	<iostream>
+	<stdexcept>
+	"Heap.tpp"
+
+1619387172 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\monticulo\heap.tpp
+	"Heap.h"
+

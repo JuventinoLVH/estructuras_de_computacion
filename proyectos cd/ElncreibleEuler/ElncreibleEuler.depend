@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1616296964 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\elncreibleeuler\vector.cpp
+	"Vector.h"
+
+1616296964 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\elncreibleeuler\vector.h
+	<stdexcept>
+	<iostream>
+	<cmath>
+
+1620264399 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\elncreibleeuler\main.cpp
+	<limits>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"Grafo.h"
+
+1620260359 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\elncreibleeuler\grafo.h
+	<iostream>
+	<stdexcept>
+	"Pila.h"
+	"ColaCircular.h"
+	"Grafo.tpp"
+
+1620248116 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\elncreibleeuler\pila.h
+	<iostream>
+	<stdexcept>
+	"Pila.tpp"
+
+1613946556 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\elncreibleeuler\pila.tpp
+
+1614703516 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\elncreibleeuler\colacircular.h
+	<iostream>
+	<stdexcept>
+	"ColaCircular.tpp"
+
+1614703516 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\elncreibleeuler\colacircular.tpp
+	"ColaCircular.h"
+
+1620264028 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\elncreibleeuler\grafo.tpp
+	"Grafo.h"
+

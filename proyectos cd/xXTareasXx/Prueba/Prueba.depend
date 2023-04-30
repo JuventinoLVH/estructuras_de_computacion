@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1590433459 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\xxtareasxx\prueba\utileria.cpp
+	"Utileria.h"
+
+1590433459 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\xxtareasxx\prueba\utileria.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<fstream>
+
+1615327837 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\xxtareasxx\prueba\main.cpp
+	<iostream>
+	"math.h"
+	"Utileria.h"
+

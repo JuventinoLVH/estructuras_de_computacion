@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1614653905 source:c:\users\dell\documents\4to semestre\estructuras\proyectos cd\c o l a s_circulares\main.cpp
+	<stdlib.h>
+	<iostream>
+	"ColaCircular.h"
+
+1614650523 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\c o l a s_circulares\colacircular.h
+	<iostream>
+	<stdexcept>
+	"ColaCircular.tpp"
+
+1614653606 c:\users\dell\documents\4to semestre\estructuras\proyectos cd\c o l a s_circulares\colacircular.tpp
+	"ColaCircular.h"
+
